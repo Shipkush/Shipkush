@@ -4,21 +4,26 @@
 
 🌱 I’m currently learning DSA and Webdevelopment and Java.
 
-🤖I am a creative person and so i love solving problems.
+🤖I'm a creative person and so i love solving problems.
 
-I🎓 am good in:
+👀I'm looking to collaborate on some C++ and Java projects.
 
-Data Structures and Algorithms
+🎓 I am good in:
+
+Data Structures and Algorithms😁
 
 C++,Java,Webdev
 
 DBMS, OS, Computer networks
 
-Problem Solving
+Problem Solving🤖
 
-📫 How to reach me: 
+📫 How to reach me:
+
+my mail:shipraiitian@gmail.com
+my linkedin:https://www.linkedin.com/in/shipra-kushwaha-525061196/
+my twitter:https://twitter.com/Shipkush
 
 
 
-MY STATS:
--->
+
