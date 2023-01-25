@@ -4,7 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47u8si1qscxh2bsbay8xc20e86s0juvfw7682g9jh1&rid=200w.webp&ct=g" width="300"/>
 </div>
 
 
@@ -47,12 +47,7 @@
   <img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
- 
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="80" height="80"/>
-  <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" title="Python" **alt="Python" width="80" height="80"/>
-  <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
- 
-</div>
+ </div>
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
