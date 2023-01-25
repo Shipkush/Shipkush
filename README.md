@@ -51,28 +51,6 @@
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-<!--
-### :fire: My Stats :
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <!--
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=kartikver15gr8&theme=great-gatsby&show_icons=true"/></td>
-    <!-- GitHub Top Language Card -->
-    <!--
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikver15gr8&layout=compact&theme=github_dark"/></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kartikver15gr8&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
-
--->
 
 
 <!--
