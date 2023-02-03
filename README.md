@@ -63,6 +63,22 @@
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
+### :fire: MY STATS :
+
+<div align="center">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipra-kushwaha&layout=compact&theme=radical&custom_title=Languages"/>
+</div>
+<br>
+
+<div align="center">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=shipra-kushwaha&theme=radical"/>
+</div>
+<br>
+                   
+<div align="center">
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=shipra-kushwaha&theme=radical"/>
+</div>
+<br>
 
 
 <!--
