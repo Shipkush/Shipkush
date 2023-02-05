@@ -10,7 +10,7 @@
 
 
 ### :man_technologist: About Me :
-**I am a Full Stack Developer !** <img src="https://media0.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47i5v901srynhhb8b38txrs8hp04vr4uw9gai0gs6h&rid=giphy.gif&ct=g" width="30">**.**
+**I am a Full Stack Developer !** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**.**
 
 🚀 **I love being creative and bring efficiency to my work. Technology fascinates me so much, I love solving problems, building an optimized solution, and being creative in any task of mine is an obsession for me. I love reading books! learning new things, communicating with people, building network.!**
 
