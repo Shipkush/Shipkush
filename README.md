@@ -80,6 +80,12 @@
 </div>
 <br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
+</p>
+
+[![Shipra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shipkush&theme=merko)](https://github.com/Shipkush/github-readme-activity-graph)
+
 
 <!--
 😎i'm an undergraduate engineering student, pursuing my Btech in information technology with specialization in internet of things from Madhav Institute of Technology and Science.
