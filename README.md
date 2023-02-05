@@ -27,7 +27,7 @@
 
 ### :man_technologist: Let's connect :
 <div id="badges" align = "center">
-  <a href="(https://www.linkedin.com/in/shipra-kushwaha-525061196/)">
+  <a href="https://www.linkedin.com/in/shipra-kushwaha-525061196/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Shipkush">
