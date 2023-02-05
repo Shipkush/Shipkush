@@ -66,17 +66,17 @@
 ### :fire: MY STATS :
 
 <div align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipra-kushwaha&layout=compact&theme=radical&custom_title=Languages"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shipkush&layout=compact&theme=radical&custom_title=Languages"/>
 </div>
 <br>
 
 <div align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=shipra-kushwaha&theme=radical"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=Shipkush&theme=radical"/>
 </div>
 <br>
                    
 <div align="center">
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=shipra-kushwaha&theme=radical"/>
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=Shipkush&theme=radical"/>
 </div>
 <br>
 
