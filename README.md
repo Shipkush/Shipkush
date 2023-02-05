@@ -59,6 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry pi" alt="Raspberry-pi" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="80" height="80"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="vscode" alt="VScode " width="80" height="80"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" title="atom" alt="atom" width="80" height="80"/>&nbsp;
 </div>
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
