@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
  </a>
  <a href="mailto: shipraiitian@gmail.com">
-  Send Email
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
  </a>
 </div>
