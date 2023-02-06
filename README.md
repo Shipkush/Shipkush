@@ -39,8 +39,11 @@
   
   <a href="https://leetcode.com/shiprakush/">
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
-  </a>
- 
+ </a>
+</div>
+<div>
+ <p>My Mail Id</p>
+ <h3>shipraiitian@gmail.com</h3>
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
