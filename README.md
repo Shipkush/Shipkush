@@ -88,10 +88,7 @@
 [![Shipra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shipkush&theme=merko)](https://github.com/Shipkush/github-readme-activity-graph)
 
 
-1. clone the project
-  ```bash
-  git clone https://github.com/github-username/repository-name.git
-  ```
+
 
 
 
