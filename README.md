@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
 **I am a Full Stack Developer !** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**.**
 
-🚀 **I love being creative and bring efficiency to my work. Technology fascinates me so much, I love solving problems, building an optimized solution, and being creative in any task of mine is an obsession for me. I love reading books! learning new things, communicating with people, building network.!**
+🚀 **I love being creative and bring efficiency to my work. Technology fascinates me so much. I love solving problems, building an optimized solution, and being creative in any task of mine is an obsession for me. I love reading books! learning new things, communicating with people, building network.!**
 
 👀 **I’m an engineering student, pursuing my B.Tech with Information Technology from MITS college. Technologies like Fullstack development, Internet Of Things, and many more fascinates me.**
 
