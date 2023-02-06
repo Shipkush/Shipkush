@@ -40,6 +40,9 @@
   <a href="https://leetcode.com/shiprakush/">
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
  </a>
+ <a href="shipraiitian@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
+ </a>
 </div>
 
 ### 📧 My Mail Id: **shipraiitian@gmail.com**
