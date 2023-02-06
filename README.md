@@ -41,10 +41,9 @@
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="leetcode Badge"/>
  </a>
 </div>
-<div>
- <p>My Mail Id</p>
- <h3>shipraiitian@gmail.com</h3>
-</div>
+
+### 📧 My Mail Id: **shipraiitian@gmail.com**
+ 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 ### :hammer_and_wrench: LANGUAGES AND TOOLS :
