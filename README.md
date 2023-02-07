@@ -97,7 +97,6 @@
 
 
 
-![image](https://wired.me/wp-content/uploads/2022/10/cartoon-network-LEAD.jpeg)
 
 
 
