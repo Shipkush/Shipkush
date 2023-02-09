@@ -17,7 +17,7 @@
 
 🎨**I love to do Sketching, Painting and Crafting in my free time.!**
 
-👀 **I’m an engineering student, pursuing my B.Tech with Information Technology specialization in Internet of Things from MITS college. Technologies like Fullstack development, Internet Of Things, and many more fascinates me.**
+👀 **I’m an engineering student, pursuing my B.Tech with Information Technology specialization in Internet of Things from MITS college. Technologies like FrontEnd development, Internet Of Things, and many more fascinates me.**
 
 🎓 *I have skills like:* 
 **FrontEnd Web Development!** 💻
