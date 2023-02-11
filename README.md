@@ -26,7 +26,7 @@
 **DBMS, OS, Computer Networks**
 **MongoDB** 📊
 **Problem Solving** 🧠
-**Git & GitHub** 
+**Git & GitHub** 🤖
 
 ### :man_technologist: Let's connect :
 <div id="badges" align = "center">
@@ -91,7 +91,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-[![Shipra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shipkush&theme=merko)](https://github.com/Shipkush/github-readme-activity-graph)
+[![Shipra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shipkush&theme=merko)](https://github.com/Shipkush/github-readme-activity-graph) 
 
 
 
