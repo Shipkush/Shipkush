@@ -95,7 +95,7 @@
 
 
 
- <img src="https://img.freepik.com/premium-vector/traveling-by-car-cartoon-outline-illustration-road-map-journey-route-winding-road-timeline-design_94753-2325.jpg?w=2000" height="800" width="800">
+ <img src="https://img.freepik.com/premium-vector/traveling-by-car-cartoon-outline-illustration-road-map-journey-route-winding-road-timeline-design_94753-2325.jpg?w=2000" height="500" width="1000">
 
 
 
