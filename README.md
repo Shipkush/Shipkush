@@ -96,7 +96,7 @@
 
 
 
-<a  href="https://chat.whatsapp.com/IrhyHyHdPiu7IEFD89WxkO"><img alt=" Whatsapp" src="https://img.shields.io/badge/Whatsapp-230077B5?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
 
 
 
