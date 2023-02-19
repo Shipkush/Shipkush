@@ -93,11 +93,6 @@
 
 [![Shipra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shipkush&theme=merko)](https://github.com/Shipkush/github-readme-activity-graph) 
 
-## Basics of Internet
-
-<img align="right" src="https://cdn.icon-icons.com/icons2/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png" height="80" alt="Internet"> 
-          
-- [Overview]()
 
 
 
