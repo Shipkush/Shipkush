@@ -95,7 +95,7 @@
 
 ## Basics of Internet
 
-<img align="right" src="https://img.freepik.com/premium-vector/internet-flat-vector-icon_9206-305.jpg?w=2000" height="60" alt="Internet"> 
+<img align="right" src="(https://cdn.icon-icons.com/icons2/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png)" height="60" alt="Internet"> 
           
 - [Overview]()
 
