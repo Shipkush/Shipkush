@@ -26,7 +26,7 @@
 **DBMS, OS, Computer Networks**💥
 **MongoDB** 📊
 **Problem Solving** 🧠
-**Git & GitHub** 🤖
+**Git & GitHub ** 🤖
 
 ### :man_technologist: Let's connect :
 <div id="badges" align = "center">
