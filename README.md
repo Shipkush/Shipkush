@@ -23,7 +23,7 @@
 **FrontEnd Web Development!** 💻
 **Data Structures and Algorithms** 📅
 **Python, Java, JavaScript & C++**🚀
-**DBMS, OS, Computer Networks**
+**DBMS, OS, Computer Networks**💥
 **MongoDB** 📊
 **Problem Solving** 🧠
 **Git & GitHub** 🤖
