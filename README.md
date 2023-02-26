@@ -20,13 +20,20 @@
 👀 **I am an engineering student, pursuing my B.Tech with Information Technology specialization in Internet of Things(IoT)from MITS college. Technologies like FrontEnd development, Internet Of Things, and many more fascinates me.**
 
 🎓 *I have skills like:* 
+
 **FrontEnd Web Development!** 💻
-**Data Structures and Algorithms** 📅
-**Python, Java, JavaScript & C++**🚀
-**DBMS, OS, Computer Networks**💥
-**MongoDB** 📊
-**Problem Solving** 🧠
-**Git & GitHub ** 🤖
+
+**Data Structures and Algorithms!** 📅
+
+**Python, Java, JavaScript & C++!**🚀
+
+**DBMS, OS, Computer Networks**!💥
+
+**MongoDB!** 📊
+
+**Problem Solving!** 🧠
+
+**Git & GitHub!** 🤖
 
 ### :man_technologist: Let's connect :
 <div id="badges" align = "center">
