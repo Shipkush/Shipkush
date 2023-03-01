@@ -25,11 +25,11 @@
 
 **Data Structures and Algorithms!** 📅
 
-**Python, Java, JavaScript & C++!**🚀
+**Python, Java, JavaScript & C++!** 🚀
 
 **DBMS, OS, Computer Networks**!💥
 
-**MongoDB!** 📊
+**MongoDB!**📊
 
 **Problem Solving!** 🧠
 
