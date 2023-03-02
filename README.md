@@ -19,7 +19,7 @@
 
 👀**I am an engineering student, pursuing my B.Tech with Information Technology specialization in Internet of Things(IoT)from MITS college. Technologies like FrontEnd development, Internet Of Things, and many more fascinates me.**
 
- ## I have skills like:🎓
+ ## I have skills like: 🎓
 
 **FrontEnd Web Development!** 💻
 
@@ -27,9 +27,9 @@
 
 **Python, Java, JavaScript & C++!** 🚀
 
-**DBMS, OS, Computer Networks**!💥
+**DBMS, OS, Computer Networks**! 💥
 
-**MongoDB!**📊
+**MongoDB!** 📊
 
 **Problem Solving!** 🧠
 
