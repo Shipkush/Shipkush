@@ -100,7 +100,7 @@
 
 [![Shipra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shipkush&theme=merko)](https://github.com/Shipkush/github-readme-activity-graph) 
 
-### :Graph: Graph :
+### Graph :
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
